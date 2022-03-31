@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "https://json.schemastore.org/yamllint.json": "file:///c%3A/Users/pyros/OneDrive/Documents/Projects/udemy/udemy-microservices/blog/infra/k8s/comments-depl.yaml"
+  }
+}

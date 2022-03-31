@@ -7,4 +7,7 @@ spec:
   selector:
     app: posts
   ports:
-    - port:
+    - name: posts
+      protocol: TCP
+      port: 4000
+      targetPort: 4000
